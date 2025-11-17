@@ -86,4 +86,4 @@ This project strengthened my hands-on skills in:
 
 📸 Dashboard Preview
 
-https://github.com/vijayant3/power_bi_project/blob/main/adventure_work_sales_dashboard.png
+(https://github.com/vijayant3/power_bi_project/blob/main/adventure_work_sales_dashboard.png)
